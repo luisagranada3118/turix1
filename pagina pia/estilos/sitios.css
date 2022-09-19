@@ -1,0 +1,136 @@
+.turtle {
+    font-family: 'Bree Serif', serif;
+    font-size: 75px;
+    text-align: center;
+    color: #ffe693;
+    letter-spacing: 10px;
+}
+.informacion{
+    margin-top: 15%;
+}
+.different{
+    width: 100%;
+    background: #0F0E0E;
+    color: aliceblue;
+    font-family: Roboto,sans-serif;
+    display: flex;
+}
+.h1-{
+    color:#ffe693;
+    font-size: 40px;
+    font-family: Poppins,sans-serif;
+    margin-bottom: 3%;
+}
+.contenedor-info{
+    width: 600px;
+    height: 600px;
+    text-align: justify;
+    letter-spacing: 1px;
+    display: flex;
+}
+.info{
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+}
+
+.img-conocenos{
+    margin-left: 50px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.cuadrados{
+    background-color: #ffe693;
+    width: 50%;
+    height: 100%;
+    margin-left: 3%;
+}
+.sitios{
+    font-family: Roboto,sans-serif;
+    width: 100%;
+    font-size: 18px;
+}
+.p1{
+    font-size: 16px;
+    font-family: Roboto,sans-serif;
+}
+.h2-{
+    margin-top: 6%;
+    color:#ffe693;
+    font-family: Poppins,sans-serif;
+}
+.imge{
+    height: 50vh;
+    width: 50vh;
+}
+.cuadrado2{
+    background-color: #ffe693;
+    width: 50%;
+    height: 100%;
+    margin-left: 58%;
+}
+.sitios2{
+    font-family: Roboto,sans-serif;
+    width: 100%;
+    font-size: 18px;
+}
+.p2{
+    font-size: 16px;
+    font-family: Roboto,sans-serif;
+}
+.imge2{
+    height: 50vh;
+    width: 50vh;
+}
+.box {
+    direction: rtl;
+    display: flex;
+    justify-content: flex-end;
+    max-width: 900px;
+    align-content: center;
+    margin: 15px;
+    flex-wrap: wrap;
+    margin-top: 6%;
+
+}
+.cuadrado3{
+    background-color: #ffe693;
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-left: 10%;
+}
+.sitios3{
+    font-family: Roboto,sans-serif;
+    width: 100%;
+    font-size: 18px;
+}
+.p3{
+    font-size: 16px;
+    font-family: Roboto,sans-serif;
+}
+.imge3{
+    height: 50vh;
+    width: 50vh;
+}
+.cuadrado4{
+    background-color: #ffe693;
+    width: 100%;
+    height: 100%;
+    margin-left: 10%;
+}
+.sitios4{
+    font-family: Roboto,sans-serif;
+    width: 100%;
+    font-size: 18px;
+}
+.p4{
+    font-size: 16px;
+    font-family: Roboto,sans-serif;
+}
+.imge4{
+    height: 50vh;
+    width: 50vh;
+}
+     

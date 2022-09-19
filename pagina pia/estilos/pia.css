@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: rgba(6, 70, 99, 0.5);
+    color: white;
+}
+
+label {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#textarea {
+    border: 0;
+    font-size: 18px;
+    margin: 5px;
+    background-color: rgba(6, 70, 99, 0.5);
+    color: white;
+}
+
+input::placeholder {
+    color: aliceblue;
+}
+
+input:focus {
+    outline: none;
+    background-color: #041C32;
+}
+
+/* Estilo de form.html */
+
+.img4{
+    background-size: cover;
+
+}
+
+
+
+span {
+    margin-right: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    width: 150px;
+    margin: 37px 50px;
+    padding: 136px;
+    padding-right: 501px;
+    padding-left: 599px;
+    font-size: italic;
+    background-color: rgba(245, 207, 82, 0.842);
+    color: white;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.principal {
+    text-align: center;
+    line-height: 1.6;
+
+}
+
+.principal {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.turix-info {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300; /*grosor*/
+    font-size: 25px;
+    color: #F8F1F1;
+}

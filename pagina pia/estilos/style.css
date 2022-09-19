@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("../img/Capturar.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.btn-principal {
+    text-decoration: none;
+    margin-top: 402px;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+button[type="submit"] {
+    color: white;
+    padding: 10px;
+    font-family: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: #ffe693;
+    border-color: transparent;
+    font-size: 16px;
+}
